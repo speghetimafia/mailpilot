@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Chrome persistent session data
+chrome_data/
+
+# Presentation / attachment files (may contain sensitive info)
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.env
+
+# IDE
+.vscode/
+.idea/
